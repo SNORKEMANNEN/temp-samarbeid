@@ -1,4 +1,4 @@
-print("Dette programmet treng 'ikkje' hjelp!")
+"""Dette programmet kan nå danse!"""
 
 from time import sleep
 
